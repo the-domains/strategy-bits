@@ -1,0 +1,28 @@
+name: Strategy Bits
+favicon: null
+layout_spectrum: 0.35851310729049146
+typography_spectrum: 0.9939477378502488
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8775822452735156
+  lightness: 0.018036540830507874
+  saturation: 0.4285153190139681
+  rhythmicContrast: 0.08666200307197869
+purpose: []
